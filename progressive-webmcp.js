@@ -2,6 +2,7 @@
  * progressive-webmcp
  * Adds declarative WebMCP attributes to existing HTML forms.
  * Version: 0.2.0
+ * Uli Schäffler
  *
  * This helper intentionally keeps form fields mostly untouched.
  * WebMCP can already infer parameter information from native HTML form controls,
